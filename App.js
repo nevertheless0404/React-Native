@@ -10,7 +10,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <Text style={styles.paragraph}>
-        Change code in the editor and watch it change on your phone! Save to get a shareable url.
+        Oh Yeah!!!
       </Text>
       <Card>
         <AssetExample />
@@ -33,5 +33,3 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
 });
-
-// https://snack.expo.dev/baUARGQj1
