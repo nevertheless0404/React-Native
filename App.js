@@ -7,6 +7,7 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.text}>Hdeloooooooooo</Text>
       <StatusBar style="auto" />
+      {/* 일부 component는 IOS 및 Android 운영 체제와 소통하기 위함함 */}
     </View>
   );
 }
