@@ -48,4 +48,4 @@ const styles = StyleSheet.create({
   }
 })
 
-//https://snack.expo.dev/@yuyeong/mad-violet-pudding
+//https://snack.expo.dev/0KFJwkmavu5HtawQ-uRDg
